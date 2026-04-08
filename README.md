@@ -1,14 +1,3 @@
-## 📁 Create file
-
-```bash
-touch README.md
-```
-
----
-
-# 🏆 ✅ COMPLETE WINNING README (COPY THIS)
-
-````markdown
 # 📧 Email Triage RL Environment (OpenEnv)
 
 ## 🚀 Overview
